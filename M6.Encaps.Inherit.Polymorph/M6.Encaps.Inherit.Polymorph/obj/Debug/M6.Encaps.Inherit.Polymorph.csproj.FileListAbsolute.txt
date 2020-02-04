@@ -1,0 +1,9 @@
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\bin\Debug\M6.Encaps.Inherit.Polymorph.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\bin\Debug\M6.Encaps.Inherit.Polymorph.pdb
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\bin\Debug\nunit.framework.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\bin\Debug\nunit.framework.pdb
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\bin\Debug\nunit.framework.xml
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\obj\Debug\M6.Encaps.Inherit.Polymorph.csprojAssemblyReference.cache
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\obj\Debug\M6.Encaps.Inherit.Polymorph.csproj.CopyComplete
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\obj\Debug\M6.Encaps.Inherit.Polymorph.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph\obj\Debug\M6.Encaps.Inherit.Polymorph.pdb

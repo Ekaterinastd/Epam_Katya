@@ -1,0 +1,13 @@
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\GeometricShapesTests.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\GeometricShapesTests.pdb
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\nunit.framework.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\nunit.framework.pdb
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\bin\Debug\nunit.framework.xml
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\obj\Debug\GeometricShapesTests.csprojAssemblyReference.cache
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\obj\Debug\GeometricShapesTests.csproj.CopyComplete
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\obj\Debug\GeometricShapesTests.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\GeometricShapesTests\obj\Debug\GeometricShapesTests.pdb

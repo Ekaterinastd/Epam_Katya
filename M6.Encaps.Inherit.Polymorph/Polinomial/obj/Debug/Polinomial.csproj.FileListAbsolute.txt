@@ -1,0 +1,5 @@
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\Polinomial\bin\Debug\Polinomial.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\Polinomial\bin\Debug\Polinomial.pdb
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\Polinomial\obj\Debug\Polinomial.csprojAssemblyReference.cache
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\Polinomial\obj\Debug\Polinomial.dll
+C:\Users\Клим\Documents\GitHub\Epam_online_course\M6.Encaps.Inherit.Polymorph\Polinomial\obj\Debug\Polinomial.pdb

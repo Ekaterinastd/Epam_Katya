@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M6.Encaps.Inherit.Polymorph", "M6.Encaps.Inherit.Polymorph\M6.Encaps.Inherit.Polymorph.csproj", "{10F597C7-0477-4DB9-A23D-1B0AE2AAF7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapesTests", "GeometricShapesTests\GeometricShapesTests.csproj", "{B70A1AF3-8565-499E-AA55-92CB3F4BF289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polinomial", "Polinomial\Polinomial.csproj", "{8EEDC3CE-4FD9-4C16-9E3E-7190A3257551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolinomialTests", "PolinomialTests\PolinomialTests.csproj", "{EA05D1DE-281D-484E-BF22-4EA3DB7B9861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F597C7-0477-4DB9-A23D-1B0AE2AAF7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F597C7-0477-4DB9-A23D-1B0AE2AAF7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F597C7-0477-4DB9-A23D-1B0AE2AAF7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F597C7-0477-4DB9-A23D-1B0AE2AAF7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70A1AF3-8565-499E-AA55-92CB3F4BF289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70A1AF3-8565-499E-AA55-92CB3F4BF289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70A1AF3-8565-499E-AA55-92CB3F4BF289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70A1AF3-8565-499E-AA55-92CB3F4BF289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEDC3CE-4FD9-4C16-9E3E-7190A3257551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEDC3CE-4FD9-4C16-9E3E-7190A3257551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEDC3CE-4FD9-4C16-9E3E-7190A3257551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEDC3CE-4FD9-4C16-9E3E-7190A3257551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA05D1DE-281D-484E-BF22-4EA3DB7B9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA05D1DE-281D-484E-BF22-4EA3DB7B9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA05D1DE-281D-484E-BF22-4EA3DB7B9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA05D1DE-281D-484E-BF22-4EA3DB7B9861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4D2476-4693-467F-A182-C42ECC1CA082}
+	EndGlobalSection
+EndGlobal
